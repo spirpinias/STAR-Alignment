@@ -1,7 +1,3 @@
-[![Code Ocean Logo](images/CO_logo_135x72.png)](http://codeocean.com/product)
-
-<hr>
-
 # STAR-Solo Single Cell Alignment
 
 Fast alignment of sc-RNAseq (single cell RNAseq) data to DNA references with or without known splice junctions. See [STAR Manual](https://github.com/alexdobin/STAR/blob/master/docs/STARsolo.md) for more details.
@@ -189,9 +185,3 @@ These can vary depending on output parameters, but by default:
 
 https://github.com/alexdobin/STAR/blob/master/docs/STARsolo.md
 https://software.cqls.oregonstate.edu/updates/star-2.7.10a/index.md
-
-<hr>
-
-[Code Ocean](https://codeocean.com/) is a cloud-based computational platform that aims to make it easy for researchers to share, discover, and run code.<br /><br />
-[![Code Ocean Logo](images/CO_logo_68x36.png)](https://www.codeocean.com)
-
