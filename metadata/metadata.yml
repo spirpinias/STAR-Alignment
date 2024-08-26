@@ -1,0 +1,16 @@
+metadata_version: 1
+name: STAR-Solo Alignment
+description: |-
+  STARsolo analyzes droplet single cell RNA sequencing data (e.g. 10X Genomics Chromium System). It does error correction and demultiplexing, maps reads to the reference, error correction and deduplication of Unique Molecular Identifiers (UMIa), and quantification of per-cell gene expression and other transcriptomic features on fastq files. It is a drop-in replacement for 10X CellRanger gene quantification output but is ~10 times faster than the CellRanger.
+
+  https://github.com/alexdobin/STAR/blob/master/docs/STARsolo.md
+tags:
+- STAR
+- Genomics
+- RNA
+- Alignment
+- UMIs
+- Single Cell
+authors:
+- name: June Snedecor
+- name: Stephen Pirpinias
